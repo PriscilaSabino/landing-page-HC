@@ -193,7 +193,9 @@ border: solid 3px ;
 }
 
 @media only screen and (min-width: 788px) and (max-width: 979px) {
-  
+  body{
+    width: auto;
+  }
   .produto_item h2 {
     top: -150px;
     margin-bottom: -56px;
@@ -217,6 +219,9 @@ border: solid 3px ;
 @media only screen and (max-width: 787px) {
 body{
   overflow-x: hidden;
+    width: auto;
+
+  }
 
 }
   .introducao h1 {
