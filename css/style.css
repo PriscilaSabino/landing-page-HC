@@ -155,13 +155,13 @@ img {
   color: #fff;
   padding: 20px 0;
   text-align: center;
-border: solid 3px ;
+
+margin-left: 300px;
   
 }
 
 .footer h3 {
   font-size: 18px;
-  
   color: white;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -171,15 +171,15 @@ border: solid 3px ;
 }
 
 .footer_redes ul {
-  margin:0 auto;
+  
   width: 500px;
   text-align: center;
+  margin-left: -110px
   
  
 }
 .footer_redes ul li {
-  display: inline-block;
-  margin-left: -200px;
+  display: inline-flex;
   width: 100px;
   text-align: center;
 }
